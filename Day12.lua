@@ -1,3 +1,5 @@
+--Made with Fugu http://www.csse.monash.edu.au/~cema/fugu/
+
 module(..., package.seeall)
 local figura
 local figura2
