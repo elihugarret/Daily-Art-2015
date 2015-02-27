@@ -2,7 +2,7 @@ module(...,package.seeall)
 
 local m = nil -- the mesh
 local counter = 0
-local verts = nil -- stores all vertices on the sphere
+local verts = nil
 local thing = nil
 
 function setup()
